@@ -1,0 +1,21 @@
+.App {
+    text-align: center;
+    background-color: rgb(3, 3, 3);
+    color: white;
+    overflow: hidden;  
+  }
+
+  nav {
+    height: 50px;
+    line-height:40px;
+    font-size: 20px;
+    background-color:gray;
+    
+  }
+  nav a{
+    text-decoration: none;
+    color: white;
+    margin: 25px 25px;
+    padding: 5px;
+    
+  }

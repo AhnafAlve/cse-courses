@@ -1,0 +1,16 @@
+.course-container{
+    display: flex;
+}
+
+.Courses{
+    height: 100%;
+    width: 75%;
+    padding:10px;
+    margin-left: 20px;
+    border-right: 1px solid grey;
+}
+
+.Cart{
+    margin: 10px;
+    padding: 10px;
+}
